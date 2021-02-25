@@ -1,0 +1,36 @@
+.A {
+border: none;
+border-bottom: 1px solid ;
+width: 300px;
+}
+.C {
+    border:none;
+    width:300px;
+
+
+    }
+.B{
+    border: none;
+    border-bottom: 1px solid;   
+    width: 600px;
+}
+.D{
+text-align: left;
+font-size: x-small;
+}
+.E{
+    border: none;
+    border-bottom: 1px solid;   
+    text-align: left;
+    width: 600px;
+
+}
+.F{
+    text-align: left;
+    font-size: small;
+    }
+    .G{
+        border: none;
+        border-style: solid;
+    }
+    
